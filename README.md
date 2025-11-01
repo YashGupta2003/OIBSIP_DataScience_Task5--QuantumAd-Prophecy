@@ -10,7 +10,7 @@
 
 > 🎯 **Oasis Infobyte Task 5**: Sales Prediction Using Python
 
-![Dashboard Preview](images/dashboard-preview.png)
+
 
 ## ✨ Key Features
 
@@ -51,7 +51,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/OIBSIP_DataScience_Task5.git
+   git clone https://github.com/Yash Gupta/OIBSIP_DataScience_Task5.git
    cd OIBSIP_DataScience_Task5
 Install Required Packages
 
@@ -117,26 +117,9 @@ Prediction Accuracy	85%+	Model reliability
 ROI Optimization	Up to 51x	Maximum return potential
 Processing Speed	< 2 seconds	Real-time predictions
 Feature Importance	TV > Radio > Newspaper	Channel effectiveness
-🚀 Live Demo
-https://img.shields.io/badge/%F0%9F%9A%80-Live_Demo-blue
-https://img.shields.io/badge/%F0%9F%93%B9-Video_Demo-red
 
-💻 Technologies Used
-Programming & Framework
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
 
-Machine Learning
-https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
 
-Data Visualization
-https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
-
-Deployment & Tools
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 🎓 Learning Outcomes
 Technical Skills Enhanced
@@ -190,7 +173,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ⭐ Don't forget to star this repository if you found it helpful!
 Built with ❤️ for the Data Science Community
 
-https://img.shields.io/badge/Oasis-Infobyte-green
-https://img.shields.io/badge/Data_Science-Internship-blue
+
 
 </div> ```
+
